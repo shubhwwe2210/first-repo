@@ -1,4 +1,6 @@
 //print the elements of an array
+
+//Abhijeet's contribution for Hacktober
 #include<stdio.h>
 int main()
 {
